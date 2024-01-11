@@ -1,2 +1,2 @@
-# LC_Marathoner
+# LCMarathoner
 **infinite stamina**
